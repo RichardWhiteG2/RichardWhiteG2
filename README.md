@@ -1,5 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello there, I´m <a href="www.linkedin.com/in/ricardoblancoing">Richard White</a> 👋</h1>
+</div>
 
+## About me
+
+- ⭐ software engineer ⭐ 
+- 📲 Mobile developer 📲
+- 📡 I love technology and innovation 📡
+<br>
 <!--
 **RichardWhiteG2/RichardWhiteG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
